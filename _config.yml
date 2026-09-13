@@ -13,9 +13,9 @@ search: true
 
 # SEO globale
 author:
-  name: "Il tuo nome"
+  name: "Andrew"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Una frase su di te."
+  bio: "Ciao, sono Andrew fondatore di EdilExtreme, sono disponibile per qualsiasi richiesta. Grazie per l'attenzione."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
