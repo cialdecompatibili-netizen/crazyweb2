@@ -1,6 +1,6 @@
 {% assign t = site.data.tema %}
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@300;400;600;700&family=Playfair+Display:wght@400;600;700&family=Lora:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@300;400;600;700&family=Playfair+Display:wght@400;600;700&family=Lora:wght@400;500;600;700&display=swap');
 :root {
   --t-accent:      {{ t.accent      | default: '#6c63ff' }};
   --t-accent-dark: {{ t.accent_dark | default: '#5a52e0' }};
@@ -70,7 +70,11 @@ body { font-size: calc(1rem * var(--t-font-scale)); }
   z-index: 9999;
   padding: 6px 0;
 }
-.has-dropdown:hover .dropdown-menu { display: block; }
+/* Hover apre il dropdown solo su desktop (dispositivi con mouse reale).
+   Su mobile/touch niente hover: il tocco su "Shop" apre direttamente /shop/. */
+@media (hover: hover) and (pointer: fine) {
+  .has-dropdown:hover .dropdown-menu { display: block; }
+}
 .dropdown-menu a {
   display: block;
   padding: 8px 16px;
