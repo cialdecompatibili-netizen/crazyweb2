@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Prezzi"
+  - title: "Preventivo"
     url: /#pricing
   - title: "Blog"
     url: /blog/
