@@ -11,3 +11,5 @@ main:
     url: /about/
   - title: "Changelog"
     url: /changelog/
+  - title: "shop2"
+    url: /Shop/
