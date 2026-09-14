@@ -4,7 +4,7 @@ baseurl: "/crazyweb2"
 url: "https://cialdecompatibili-netizen.github.io"
 email: ""
 description: >-
-  Un sito Jekyll con CMS integrato, gestito da CMSPush.
+  Web Agency a Roma dal 2013: aiutiamo il tuo business a crescere con comunicazione, marketing digitale e sviluppo piattaforme su misura.
 footer_text: "&copy; 2026 EdilExtreme"
 twitter_username: username
 github_username: username
@@ -107,4 +107,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-cms_homepage: 
+cms_homepage: _pages/home.md
