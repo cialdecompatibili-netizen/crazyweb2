@@ -107,4 +107,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-cms_homepage: _pages/home.md
+cms_homepage: 
