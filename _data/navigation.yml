@@ -7,7 +7,7 @@ main:
     url: /blog/
   - title: "Shop!"
     url: /shop/
-  - title: "About"
+  - title: "Chi siamo"
     url: /about/
   - title: "Changelog"
     url: /changelog/
