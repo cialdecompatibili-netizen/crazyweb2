@@ -5,7 +5,7 @@ url: "https://cialdecompatibili-netizen.github.io"
 email: ""
 description: >-
   Web Agency a Roma dal 2013: aiutiamo il tuo business a crescere con comunicazione, marketing digitale e sviluppo piattaforme su misura.
-footer_text: "&copy; 2026 EdilExtreme"
+footer_text: "&copy; 2026 CrazyWeb.it"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -15,7 +15,7 @@ search: true
 author:
   name: "Andrew"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Ciao, sono Andrew fondatore di EdilExtreme, sono disponibile per qualsiasi richiesta. Grazie per l'attenzione."
+  bio: "Ciao, sono Marco fondatore di CrazyWeb, sono disponibile per qualsiasi richiesta. Grazie per l'attenzione."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
