@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Preventivo"
+  - title: "Servizi"
     url: /#pricing
   - title: "Blog"
     url: /blog/
@@ -9,5 +9,5 @@ main:
     url: /shop/
   - title: "Chi siamo"
     url: /about/
-  - title: "Changelog"
+  - title: "Contatti"
     url: /changelog/
