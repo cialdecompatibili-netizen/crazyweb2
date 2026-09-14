@@ -1,13 +1,15 @@
 main:
   - title: "Home"
     url: /
+  - title: "Chi siamo"
+    url: /about/
   - title: "Servizi"
     url: /#pricing
   - title: "Blog"
     url: /blog/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Shop!"
     url: /shop/
-  - title: "Chi siamo"
-    url: /about/
   - title: "Contatti"
     url: /changelog/
